@@ -1,0 +1,23 @@
+@font-face {
+    font-family: "Blender-Heading";
+    src: url("fonts/blenderpro-bold-webfont.woff");
+}
+
+@font-face {
+    font-family: "Blender";
+    src: url("fonts/blenderpro-medium-webfont.woff");
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    /* background-color: #3E547B; */
+    background-color: #df6c6c;
+    color: #131417;
+    font-family: 'Changa', sans-serif;
+    font-size: 1.15rem;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: auto;
+}

@@ -21,3 +21,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+build
+react-app-env.d.ts
+package-lock.json
+.eslintcache
