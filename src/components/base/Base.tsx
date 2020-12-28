@@ -15,7 +15,7 @@ export default class Base extends Component<any, any> {
           fixed="top"
         >
           <Navbar.Brand className="soc mb-n2" href="/">
-            <Image src="img/hypexy.png" rounded className="logo"></Image>
+            <Image src="img/hypexy.PNG" rounded className="logo"></Image>
           </Navbar.Brand>
           <div>
             <Link to="/twitch">
